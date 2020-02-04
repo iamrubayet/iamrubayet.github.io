@@ -1,0 +1,34 @@
+<div>
+  <div class="container sidebar">
+    
+    <div class="sidebar-about">
+      <h3><a class="">Yakin Rubaiyat</a></h3>
+      <p style="font-size:13px">
+      <i>A Explorable Explanations
+         </i><br />
+      <a class="lead">yakin13@cse.pstu.ac.bd</a>
+      </p>
+      <center></center><img src="/assets/images/profile.png" alt="profile picture" class="responsive"></center>
+    </div>
+
+    <div class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/index.html" {% if page.active == 'about' %}style="font-weight:bold"{% endif %}>About</a>
+      <a class="sidebar-nav-item" href="/blog.html" {% if page.active == 'blog' %}style="font-weight:bold"{% endif %}>Blog</a>
+      <a class="sidebar-nav-item" href="/blog.html" {% if page.active == 'blog' %}style="font-weight:bold"{% endif %}>MOOC</a>
+<!--      <a class="sidebar-nav-item" href="/blog.html" {% if page.active == 'tag' %}style="font-size:16px;font-weight:bold"{% else %}style="font-size:16px"{% endif %}> - Tags</a> -->
+      <a class="sidebar-nav-item" href="/projects.html" {% if page.active == 'projects' %}style="font-weight:bold"{% endif %}>Projects</a>
+      <a class="sidebar-nav-item" href="/publications.html" {% if page.active == 'publications' %}style="font-weight:bold"{% endif %}>Publications</a>
+      <a class="sidebar-nav-item" href="https://yakinrubaiat.github.io/assets/pdfs/Yakin_Resume.pdf">Download resume</a>
+    </div>
+
+
+<div id="social">
+    {% include social.html %}
+</div>
+
+<div>
+    <br>
+</div>
+
+  </div>
+</div>
