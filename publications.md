@@ -4,7 +4,7 @@ title: Publications
 active: publications
 ---
 
-Download [CV]()
+Download [paper]()
 
 ___
 
