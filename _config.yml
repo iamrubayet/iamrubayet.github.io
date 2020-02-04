@@ -16,21 +16,21 @@
 
 title: Fuzzy Logic 
 
-email: yakin13@cse.pstu.ac.bd
+email: srubayet15@cse.pstu.ac.bd
 
 description: > # this means to ignore newlines until "baseurl:"
   Using R since 2010.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-url: "https://yakinrubaiat.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rubayet170746.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social media usernames
-github_username:    YakinRubaiat
+github_username:    rubayet170746
 researchgate_username: Sajratul_Rubaiat
-linkedin_username:    yakinrubaiat
-kaggle_username:    yakinrubaiat
-twitter_username:     YakinRubaiat
+linkedin_username:    shahriar-rahman-rubayet-b81924188/
+kaggle_username:    rafirubayet170216
+twitter_username:     RubayetShahriar
 
 markdown: kramdown
 
