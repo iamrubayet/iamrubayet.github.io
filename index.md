@@ -8,7 +8,7 @@ active: about
 
 ___
 
-Love building things!, I'm a software engineer and undergrad student of [Patukhali Science and Technology University](http://pstu.ac.bd/). It's my ex­cuse for toy­ing around with new ideas and prac­tic­ing the craft of new technologies. Currently working and interested in Fullstack development,machine learning,data science,deep learning etc....
+Love building things!, I'm a software engineer and a Developer with strong passion for self-improvement. I have strong Problem Solving skills & bring energy, patience, positivity and cultural values to the team. It's my ex­cuse for toy­ing around with new ideas and prac­tic­ing the craft of new technologies. Currently working and interested in Fullstack development,machine learning,data science,deep learning etc....
 
 What I cannot create, I do not understand.
                                     — Richard Feynman
